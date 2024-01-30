@@ -1,0 +1,19 @@
+/* Created by Dhanian */
+
+
+
+
+body{
+  padding-top:0.5rem;
+}
+h1{
+  font-size:2.5rem;
+}
+.sidenav li:hover{
+  color:var(--auto);
+  font-weight:bolder;
+  
+}
+.sidenav btn{
+  margin-right:5px;
+}
